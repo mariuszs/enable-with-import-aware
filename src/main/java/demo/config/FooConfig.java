@@ -1,6 +1,5 @@
 package demo.config;
 
-import demo.EnableHelloWorld;
 import demo.Foo;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
